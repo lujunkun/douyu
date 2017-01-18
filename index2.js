@@ -6,4 +6,5 @@ var obj = {
     age:88,
     ismale:true
 }
-var m = 12
+var m = 110
+var n = m
